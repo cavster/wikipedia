@@ -17,4 +17,4 @@ dist
 /RUNNING_PID
 /.settings
 *.iws
-
+src/main/resources/wikipedia/wikipedia.dat
